@@ -1,0 +1,5 @@
+http://localhost:8080/index.jpeg
+
+Using golang and doing server.go, can I deploy server.go with domain name www.example.org instead of http://localhost:8080/index.jpeg can you write the file server.go with html text and images named index.html?
+
+www.blackholesno.org → 203.0.113.10
